@@ -1,0 +1,22 @@
+-<img>:
+Incorpora imagens dentro do seu site, tanto local tanto na internet, ela só abre e não fecha
+
+-src:
+Define o caminho do arquivo da imagem no site, ou interna ou externa, sendo o caminho absoluto ou relativo
+
+-width:
+largura da imagem
+
+-height:
+altura da imagem
+
+-OBS:
+tente colocar apenas a altura ou a largura, ele evita que a imagem fique distorcida
+
+alt:
+texto alternativo que aparece quando deixa o mouse na imagem
+
+placeholders:
+https://placehold.co/(largura)x(altura)
+serve como um rascunho
+

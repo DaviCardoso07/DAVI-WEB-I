@@ -1,0 +1,4 @@
+-HTML:
+Linguagen de marcação de hipertexto(que são como os links, textos que nos levam a outros lugares na web)
+A versão atual do HTML é o HTML5, que basicamente é a "versão final", mas constantemente recebe atualizações e etc
+É uma linguagem de marcação, é definido por tags, toda tag tem essa estrutura "<tag>"

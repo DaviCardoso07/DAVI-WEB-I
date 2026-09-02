@@ -1,0 +1,33 @@
+-O que é UX? (User Experience / Experiência do Usuário)
+UX é sobre como você se sente ao usar um aplicativo, site ou jogo.
+
+O foco principal: É garantir que a experiência seja útil, fácil e que você consiga o que quer sem passar raiva.
+
+Na prática: É quando você entra em um app de entrega de comida e percebe que é super rápido achar o que quer, colocar o endereço e pagar. O fluxo faz sentido.
+
+O que o profissional de UX faz: Ele pesquisa o que as pessoas querem, descobre quais são os problemas delas e desenha o "caminho" (os passos que você dá) dentro do app para que tudo seja intuitivo.
+
+Exemplo do mundo real: Pense em uma garrafa de água. O design de UX garante que ela seja fácil de segurar, não escorregue da mão e abra com facilidade.
+
+-O que é UI? (User Interface / Interface do Usuário)
+UI é sobre a parte visual, a carinha bonita de tudo o que você vê na tela.
+
+O foco principal: A estética, as cores, as letras (fontes), os botões, as imagens e a organização visual.
+
+Na prática: São os botões coloridos que dá vontade de clicar, as animações legais quando você curte uma foto, o modo escuro (dark mode) do celular e os ícones bonitinhos.
+
+O que o profissional de UI faz: Ele escolhe a paleta de cores, decide qual fonte combina mais, desenha os botões e deixa o app com um visual moderno e agradável aos olhos.
+
+Exemplo do mundo real: Voltando para a garrafa de água, o UI seria a cor dela, o desenho do rótulo, o estilo da marca estampada e se ela é estilosa ou fosca.
+
+-Resumo da ópera: Qual a diferença?
+UX é o cérebro e o esqueleto: Como a coisa funciona e se é fácil de usar.
+
+UI é a maquiagem e a roupa: A beleza e o estilo de como a coisa se apresenta.
+
+-Regra de ouro: Um app pode ter um visual incrível (UI maravilhosa), mas se for difícil de mexer e travar toda hora, ele tem um péssimo UX. Por outro lado, um app super útil pode ser salvo ou arruinado dependendo se ele é bonito de ver ou não. Os dois trabalham sempre juntos!O que é UX? (User Experience / Experiência do Usuário)
+UX é sobre como você se sente ao usar um aplicativo, site ou jogo.
+
+O foco principal: É garantir que a experiência seja útil, fácil e que você consiga o que quer sem passar raiva.
+
+Na prática: É quando você entra em um app de entrega de comida e percebe que é super rápido achar o que quer, colocar o endereço e pagar. O fluxo faz sentido.

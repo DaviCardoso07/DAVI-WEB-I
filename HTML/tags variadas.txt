@@ -1,0 +1,11 @@
+-Tags h1 até h6:
+basicamente o h1 é o maior e o h6 é o menor, basicamente serve para alterar o tamanho do texto 
+
+-Tag <p>:
+usada para iniciar um parágrafo, escrever alguma coisa
+
+-tag <b>:
+-usado para deixar em negrito
+
+-tag <i>:
+-usado para deixar em itálico

@@ -1,0 +1,28 @@
+-Lista ordenada(<ol>)
+tem os números numerando cada numero e cada linha da lista
+
+-Lista não-ordenada(<ul>):
+Não tem os números numerando cada numero e cada linha da lista, normalmente uma bolinha preta
+
+Lista(para colocar uma dentro de um ul ou ol) -> <li>
+
+Atributos para as tags ol:
+-Type:
+muda oo tipo do símbolo da ordem(pode alterar, ao invés de ser números ser outra coisa)
+
+-start:
+ele é usado muitas vezes juntamente com o type, isso para mudar o início da ordem, por exemplo coloco o start sendo igual a 4 vai começar a partir do 4 ao invés do 1, o mesmo com as letras do alfabeto
+
+-reversed:
+ele inverte a ordem os elementos
+
+Atributos para as tags ul:
+Ele muda o tipo das bolinhas, usa do mesmo modo do type
+
+-disc: um disco      -circle: um círculo      -square: um quadrado
+
+Atributos para as tags li:
+-value:
+Dá valores a cada lista, parece com o start
+
+

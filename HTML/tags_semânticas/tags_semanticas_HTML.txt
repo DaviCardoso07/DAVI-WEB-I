@@ -1,0 +1,33 @@
+-Tags semânticas:
+Tem o objetivo para deixar o código mais claro, bonito e organizado, facilitando a compreensão de outras pessoas;
+visualmente não altera em nada
+
+-main:
+Conteúdo principal da pagina
+
+-section:
+Sessões, fica dentro de main, são espaços que ficam os conteúdos, como biografias, fotos e etc
+
+-aside:
+Usado mais para informações adicionais, como fontes, links e etc
+
+-<nav> (Navegação)
+Representa uma seção da página destinada a conter links de navegação principal(para links internos, o ideal) e é importante que fique dentro da section. É usada para agrupar blocos importantes de menu, sumários, índices de navegação ou sistemas de paginação
+
+-<header> (Cabeçalho)
+Representa o grupo de suporte introdutório ou de navegação de uma página ou seção. Geralmente contém o logotipo, títulos de cabeçalho (`<h1>`-`<h6>`), formulários de busca ou menus de navegação principal.
+
+-<article> (Artigo)
+Representa um conteúdo independente e autônomo na página, projetado para ser reutilizado ou distribuído separadamente. É ideal para posts de blog, notícias, comentários de usuários ou cartões de produtos.
+
+-<a>:
+Ela faz o link existir, é uma âncora, liga um pouco a outro, Cria um hiperlink que conecta a página atual a outros documentos, arquivos, seções da mesma página ou endereços de e-mail.
+
+-Atributos da tag <a>:
+
+-href:
+é o atributo principal que define o destino do link, usando link externo(de outra página)
+'href = "link do site"
+
+-id:
+cria uma ancora que permite navegar no mesmo site, basicamente crio uma tag a com o href, com a mesma estrutura de antes só que no lugar do link coloco um jogo da velha desse jeito -> "href = "#link do site" e em algum outro lugar voce coloca(pode ser numa tag p, h e etc) e coloco com essa sintaxe -> id="nome que voce tinha colocado no href"

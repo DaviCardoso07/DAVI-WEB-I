@@ -1,0 +1,5 @@
+Branches:
+-É basicamente são versões de um projeto, eu posso criar uma branche que não é a principal e modificá-la como eu quiser
+
+HTML:
+-Não é uma linguagem de programação, é uma linguagem de marcação, ele diz oque cada coisa que eu escrevi 

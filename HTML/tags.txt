@@ -1,0 +1,14 @@
+-<!DOCTYPE>:
+Informa ao navegador que o tipo de documento é um HTML5
+
+-<head>:
+Aparece na aba(o "nome da página"), e para configurar algumas coisas(mas o live preview já faz isso)
+
+-<body>:
+É basicamente o corpo,aonde vai ficar a maioria dos nossos códigos
+
+-<footer>:
+É o rodapé
+
+OBS:
+A "/" ao lado as tags significa o ponto que ela vai encerrar, se não tiver a barra significa que é o início

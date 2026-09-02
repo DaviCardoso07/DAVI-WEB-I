@@ -1,0 +1,24 @@
+-<table>:
+Usado para criar tabelas
+
+-border(dentro da tag table):
+define a borda da tabela
+
+-<thead>:
+table head, cabeça da tabela, o cabeçalho
+
+-<tbody>:
+table body, corpo da tabela
+
+-<tfoot>:
+table foot, pé da tabela, o final, o rodapé
+
+-<tr>:
+define a linha de células com 3 elementos apenas, isso dentro do de um thead, tbody, tfoot, e etc
+
+<td>:
+células da tabela, dentro de uma tr
+
+-<th>:
+célula de título, é um td, só que usado só no thead(dentro do tr)
+

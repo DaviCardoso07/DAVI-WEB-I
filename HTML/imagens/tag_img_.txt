@@ -13,10 +13,17 @@ altura da imagem
 -OBS:
 tente colocar apenas a altura ou a largura, ele evita que a imagem fique distorcida
 
-alt:
+-alt:
 texto alternativo que aparece quando deixa o mouse na imagem
 
-placeholders:
+-placeholders:
 https://placehold.co/(largura)x(altura)
 serve como um rascunho
+
+-figure:
+Ela cria um container, um espaço que fica guardado as imagens
+
+-figcaption:
+É a legenda do container(que geralmente cada container desse tem só uma imagem,então é tipo a legenda da imagem)
+
 

@@ -1,0 +1,52 @@
+-<form>:
+Tag que gera o container do formulário
+
+-action:
+é o local que os dados do formulário vão
+action="local que vou enviar os dados" 
+
+-method:
+tem 2 métodos->
+O GET busca e lê dados do servidor mostrando as informações direto na URL, enquanto o POST envia e salva novos dados escondidos no corpo da mensagem
+
+-<label>:
+Deixa a aba para receber o input mais intuitiva, com um texto, como usuário, senha e etc
+
+-for:
+voce meio que "cria uma variável" digamos assim,indica o início
+
+-id:
+indica o fim do for
+
+-OBS:
+o for depende do id, mas o id é independente do for
+
+-name:
+serve para quando chegarmos em javascript criarmos a variável(se não me engano), e tambem pra outras coisas, no geral pe o mesmo nome da "variável", coloca so um maiúsculo na frente
+
+-<input>:
+recebe uma informação em texto
+
+-tipos diferentes:
+tem inúmeros tipos, desde text, até radio, checkbox e etc
+
+-<textarea>:
+Cria um campo de entrada de texto, você define a quantidade de texto
+
+rows:
+número de linhas da textarea
+
+cols:
+número de colunas da textarea
+
+-<select>:
+Um conteiner para uma lista com várias opções de seleção
+
+-<option>:
+Várias opções dentro do select
+
+-<br>:
+quebra de linha
+
+
+

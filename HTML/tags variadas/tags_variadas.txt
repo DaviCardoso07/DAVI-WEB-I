@@ -1,0 +1,4 @@
+-<br>:
+ele quebra a linha
+-<!-- -->:
+tag de comentário

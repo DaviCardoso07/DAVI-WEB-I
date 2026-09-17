@@ -10,54 +10,75 @@
             <h2>Olá, bem vindo ao site da oficina de tecnologia!</h2>
             <p>Temos o objetivos de por meio das inovações tecnológicas<br>promover o ensino e aumentar a capacidade tecnica de nossos visitantes!!!</p>
         </header>
-        <section>
-            <figure>
-                <img src="https://ascenty.com/wp-content/uploads/2022/04/tecnologia-na-educa%C3%A7%C3%A3o-1920x1000-c-default.png" width="600">
-                <figcaption>imagem de tecnologia</figcaption>
-            </figure>
-        </section>
-        <section>
-            <h2>REGRAS</h2>
-            <ol>
-                <li>Respeito</li>
-                <li>Foco</li>
-                <li>Disciplina</li>
-            </ol>
-        </section>
-        <section>
-            <h2>HORÁRIO DAS ATIVIDADES</h2>
-            <table border="1">
-                <thead>
-                    <tr>
-                        <th>CONTEÙDO</th>
-                        <th>HORÁRIO</th>
-                        <th>PROFESSOR</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>Teleinformática</td>
-                        <td>7h30-9h30</td>
-                        <td>Thomaz Maia</td>
-                    </tr>
-                    <tr>
-                        <td>Inteligência Artificial</td>
-                        <td>9h40-11h40</td>
-                        <td>Roger Moura</td>
-                    </tr>
-                    <tr>
-                        <td>Almoço</td>
-                        <td>11h45-12h45</td>
-                    </tr>
-                </tbody>
-                <tfoot>
-                    <tr>
-                        <td>Despedida</td>
-                        <td>13h-13h30</td>
-                        <td>Ademir</td>
-                    </tr>
-                </tfoot>
-            </table>
-        </section>
+        <main>
+            <section>
+                <figure>
+                    <img src="https://ascenty.com/wp-content/uploads/2022/04/tecnologia-na-educa%C3%A7%C3%A3o-1920x1000-c-default.png" width="600">
+                    <figcaption>imagem de tecnologia</figcaption>
+                </figure>
+            </section>
+            <section>
+                <h2>REGRAS</h2>
+                <ol>
+                    <li>Respeito</li>
+                    <li>Foco</li>
+                    <li>Disciplina</li>
+                </ol>
+            </section>
+            <section>
+                <h2>HORÁRIO DAS ATIVIDADES</h2>
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>CONTEÙDO</th>
+                            <th>HORÁRIO</th>
+                            <th>PROFESSOR</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Teleinformática</td>
+                            <td>7h30-9h30</td>
+                            <td>Thomaz Maia</td>
+                        </tr>
+                        <tr>
+                            <td>Inteligência Artificial</td>
+                            <td>9h40-11h40</td>
+                            <td>Roger Moura</td>
+                        </tr>
+                        <tr>
+                            <td>Almoço</td>
+                            <td>11h45-12h45</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td>Despedida</td>
+                            <td>13h-13h30</td>
+                            <td>Ademir</td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </section>
+            <section>
+                <h2>FÓRMULARIO DE INSCRIÇÃO</h2>
+                <form action="/enviar_dados" method="get">
+                    
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" name="Nome"><br><br>
+
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="Email"><br><br>
+
+                    <label for="senha">Password:</label>
+                    <input type="password" id="senha" name="Senha"><br><br>
+
+                    <label for="radio">Escolha uma opção:</label>
+                    <input type="radio" id="radio" name="Radio">Manhã
+                    <input type="radio" id="radio" name="Radio">Tarde
+                    <input type="radio" id="radio" name="Radio">Noite
+                </form>
+            </section>
+        </main>
     </body>
 </html>

@@ -21,8 +21,8 @@
                 <h2>REGRAS</h2>
                 <ol>
                     <li>Respeito</li>
-                    <li>Foco</li>
-                    <li>Disciplina</li>
+                    <li>Faça silencio</li>
+                    <li>Entrada apenas com a inscrição(verificar na recepção)</li>
                 </ol>
             </section>
             <section>
@@ -30,32 +30,56 @@
                 <table border="1">
                     <thead>
                         <tr>
-                            <th>CONTEÙDO</th>
+                            <th>TURNO</th>
+                            <th>CONTEÚDO</th>
                             <th>HORÁRIO</th>
-                            <th>PROFESSOR</th>
+                            <th>PALESTRANTE</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
+                            <td>Manhã</td>
+                            <td>Acolhida</td>
+                            <td>7h-7h25</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Manhã</td>
                             <td>Teleinformática</td>
                             <td>7h30-9h30</td>
                             <td>Thomaz Maia</td>
                         </tr>
                         <tr>
+                            <td>Manhã</td>
                             <td>Inteligência Artificial</td>
-                            <td>9h40-11h40</td>
+                            <td>9h40-11h50</td>
                             <td>Roger Moura</td>
                         </tr>
                         <tr>
+                            <td>Tarde</td>
                             <td>Almoço</td>
-                            <td>11h45-12h45</td>
+                            <td>12h-12h50</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Tarde</td>
+                            <td>Apresentação dos projetos</td>
+                            <td>13h-18h</td>
+                            <td>Eduardo de Melo</td>
+                        </tr>
+                        <tr>
+                            <td>Noite</td>
+                            <td>Áreas de atuação em TI</td>
+                            <td>18h10-19h30</td>
+                            <td>Matheus Santos</td>
                         </tr>
                     </tbody>
                     <tfoot>
                         <tr>
+                            <td>Noite</td>
                             <td>Despedida</td>
-                            <td>13h-13h30</td>
-                            <td>Ademir</td>
+                            <td>19h35</td>
+                            <td></td>
                         </tr>
                     </tfoot>
                 </table>
@@ -73,10 +97,26 @@
                     <label for="senha">Password:</label>
                     <input type="password" id="senha" name="Senha"><br><br>
 
-                    <label for="radio">Escolha uma opção:</label>
-                    <input type="radio" id="radio" name="Radio">Manhã
-                    <input type="radio" id="radio" name="Radio">Tarde
-                    <input type="radio" id="radio" name="Radio">Noite
+                    <label for="radio">Escolha uma opção:</label><br>
+                    <input type="radio" id="radio" name="Radio">Manhã <br>
+                    <input type="radio" id="radio" name="Radio">Tarde <br>
+                    <input type="radio" id="radio" name="Radio">Noite <br><br>
+
+                    <label for="checkbox">Áreas de interesse:</label> <br>
+                    <input type="checkbox">IA <br>
+                    <input type="checkbox">Ciencia de dados <br>
+                    <input type="checkbox">Programação <br><br>
+
+                    <label for="minicursos">Selecione os minicursos desejados:</label>
+                    <select id="minicursos" name="Minicursos">
+                        <option value="tinfo">Teleinformática (manhâ)</option>
+                        <option value="ia">Inteligência artificial (manhã)</option>
+                        <option value="appro">Apresentação dos projetos (tarde)</option>
+                        <option value="ti">Áreas de atuação em TI (noite)</option>
+                    </select> <br><br>
+
+                    <label for="comentario">Fale sua área de interesse e oque você almeja para o futuro? (não precisa necessariamente ser de tecnologia)</label> <br>
+                    <textarea id="comentario" name="Comentario" rows="4" cols="25" ></textarea>
                 </form>
             </section>
         </main>

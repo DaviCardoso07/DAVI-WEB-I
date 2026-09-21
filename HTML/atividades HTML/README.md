@@ -23,4 +23,4 @@
 - Exercício imagem [[Repositório](https://github.com/DaviCardoso07/exercicio_img_web_I)] [[Página](https://davicardoso07.github.io/exercicio_img_web_I/)]
 - Exercício formulário 1 [[Repositório](https://github.com/DaviCardoso07/exerc-cio_formulario1_web_I)] [[Página](https://davicardoso07.github.io/exerc-cio_formulario1_web_I/)]
 - Exercício formulário 2 [[Repositório](https://github.com/DaviCardoso07/exercicio_formulario2_web_I)] [[Página](https://davicardoso07.github.io/exercicio_formulario2_web_I/)]
-- Exercicio final [[Repositório](https://github.com/DaviCardoso07/exercicio_final_web1)][[Página] (https://davicardoso07.github.io/exercicio_final_web1/)]
+- Exercicio final [[Repositório](https://github.com/DaviCardoso07/exercicio_final_web1)] [[Página](https://davicardoso07.github.io/exercicio_final_web1/)]

@@ -1,0 +1,8 @@
+class:
+É uma propriedade que permite alterar uma quantidade de elementos que tenham a mesma classe;
+é uma espécie de id que pode selecionar mais gente,
+utiliza class="nome da classe";
+ao invés do # do id, usa-se o . na class;
+
+.nomedaclass
+#nomedoid

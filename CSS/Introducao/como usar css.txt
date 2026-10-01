@@ -1,0 +1,13 @@
+-SINTAXE:
+seletor{propriedade:valor}
+
+-SELETOR:
+indica quais elementos do html(pode ser tags, classes e etc) 
+
+-PROPRIEDADE:
+define uma característica visual para o elemento html, como color(que define a cor), background(cor de fundo)
+-Todas os elementos com a propriedade que eu selecionei serão alterados
+-Para por exemplo fazer a tag p uma cor diferente das outras tenho que usar ingles, e no lugar da propriedade usar o "#nome do id"
+
+-VALOR:
+São basicamente as cores

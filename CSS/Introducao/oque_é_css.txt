@@ -1,0 +1,9 @@
+-O QUE É:
+É uma linguagem de estilização, é como se css fosse a casa só com o reboco toda feita, o css é a pintura, o acabamento e etc;
+
+-COMO ERA FEITO A ESTILIZAÇÃO ANTES DO CSS?:
+Usava o atributo "style" em html, mas acabou necessitando de uma evolução, ficando mt poluido;
+
+
+
+

@@ -1,0 +1,21 @@
+INLINE:
+a que eu disse no ultimo arquivo, usando o atributo style;
+é feito linha por linha
+
+INTERNO:
+Usado para códigos pequenos, usa uma espécie de container chamado <style>
+
+body:
+Muda todo a cor da página
+
+p:
+muda toda a cor do texto da página
+
+background:
+fica entre colchetes, dentro de body ou de p
+
+EXTERNO:
+Tem um link externo no head, usado para sites grandes, basicamente é pra separar o css, funciona do mesmo jeito do interno, só que sem a tag style só que conectado por um arquivo externo
+
+<link>:
+usa o atributo rel, para dizer que pe um aq

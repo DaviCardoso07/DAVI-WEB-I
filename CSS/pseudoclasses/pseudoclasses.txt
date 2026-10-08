@@ -1,0 +1,12 @@
+peseudoclasses:
+usa=se o 2 pontos(":") dps de selecionar a classe;
+geralmente é usado em links(tag a)
+
+-:hover :
+Para quando eu passar o mouse por cima ele mudar de cor
+
+.class:hover
+
+-:active :
+muda a cor quando é clicado o link
+                                                                                                                

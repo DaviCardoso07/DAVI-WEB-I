@@ -2,7 +2,7 @@
 seletor{propriedade:valor}
 
 -SELETOR:
-indica quais elementos do html(pode ser tags, classes e etc) 
+indica quais elementos do html(pode ser tags, classes e etc) , pode ser mais de um, caso eu queira colocar a propriedade nos elementos que eu quiser
 
 -PROPRIEDADE:
 define uma característica visual para o elemento html, como color(que define a cor), background(cor de fundo)

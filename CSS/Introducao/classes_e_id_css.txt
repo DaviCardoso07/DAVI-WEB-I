@@ -1,3 +1,8 @@
+id:
+é uma propriedadeque permite alterar apenas 1 elemento da página, usa-se o # para identifica-lo, pode colocar o id em um container tambem por exemplo, tipo o section
+
+id="nome do id"
+
 class:
 É uma propriedade que permite alterar uma quantidade de elementos que tenham a mesma classe;
 é uma espécie de id que pode selecionar mais gente,

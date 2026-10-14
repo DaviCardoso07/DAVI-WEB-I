@@ -1,0 +1,23 @@
+-color:
+Em CSS ela define a cor do texto, aceitando diferentes formatos, como nomes(red, green e etc), valores hexadecimais(#00ff00[vermelho,verde,azul] por exemplo, o 00 é o mínimo e o ff é o máximo), e rgb([vermelho,verde,azul]podendo você variar os tipos das cores, sendo 0 o menor e 255 o maior)
+
+-background-color:
+segue o mesmo estilo do color, só que altera o fundo
+
+-font-family:
+Muda a família da fonte, o tipo dela
+
+-font-size:
+Ele altera o tamanho da fonte, aceitando em pixels(px), em e %
+
+-font-weight:
+Ele altera o "peso" da fonte, como bold(negrito), lighter, normal, recebendo valores entre 100,200 até 1000
+
+-text-align:
+Ele alinha o texto, left, right, center e justify,justificado.
+
+-letter-spacing:
+controla o espaço entre as letras
+
+-line-height:
+controla o espaçamento entre as linhas do texto

@@ -1,0 +1,3 @@
+-<div>:
+é um container genérico, como o section, header, footer e etc. A diferença é que é generico, não tem uma finalidade expecifica;
+antigamente tudo era uma div, os outros containers derivam dela

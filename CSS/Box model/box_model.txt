@@ -1,0 +1,25 @@
+Cada elemento HTML pode ser visualizado como uma caixa que contém quatro partes principais:
+
+-Conteúdo (content):
+ Área onde o conteúdo (texto, imagem, etc.) é exibido.
+
+-Preenchimento (padding): 
+Espaço entre o conteúdo e a borda do elemento.
+
+-Borda (border):
+Uma linha ao redor do conteúdo e do padding.
+
+-Margem (margin):
+ O espaço fora da borda, que separa o elemento de outros elementos.
+
+-O uso da div:
+ normalmente o box model é usado em uma div como uma classe
+
+ -border-radius:
+ "Raio" da borda do box model, pode deixai ele mais circular por exemplo
+
+ -border-color:
+ Cor da borda
+
+ -border-top ou bottom-left ou right-radius:
+ borda da esquerda ou direita(left ou right) de cima ou de baixo(top ou bottom) do box model

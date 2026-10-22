@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<!-- CSS3 - Semana de Tecnologia e Cultura -->
+
+<html>
+    <head>
+        <title>Css-3-Semana-de-Tecnologia-e-Cultura</title>
+
+        <!-- Estilizar a página com CSS interno -->
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+            }
+            p {
+                font-size: 16px;
+                line-height: 1.6;
+            }
+            a:hover {
+                color: rgb(227, 20, 20);
+            }
+            header {
+                background-color: aquamarine;
+                padding: 30px;
+                margin-bottom: 20px;
+            }
+            nav {
+                background-color: antiquewhite;
+                padding: 15px;
+            }
+            section {
+                background-color: white;
+                padding: 20px;
+                margin: 20px;
+                border: solid 2px;
+            }
+            img {
+                width: 400px;
+                height: 250px;
+                border: solid 3px;
+            }
+            table {
+                width: 100%;
+                border: 2px;
+                padding: 20px;
+            }
+            footer {
+                background-color: #F5F5F5;
+                padding: 20px;
+                text-align: center;
+            }
+            .box{
+                width: 300px;
+                height: 180px;
+                padding: 20px;
+                margin: 15px;
+                border: solid 3px;
+            }
+            .box1{
+                background-color: lightblue;
+                border-color: darkblue;
+                border-radius: 0px;
+            }
+            .box2{
+                background-color: lightgreen;
+                border-color: green;
+                border-radius: 30px;  
+            }
+            .box3{
+                background-color: lightcoral;
+                border-color: 5px, purple;
+                border-radius: 30px;
+                border-top-left-radius: 0px;
+
+            }
+            .sec_sobre{
+                text-align: justify;
+            }
+            .subtitulos {
+                font-size: 24px;
+            }
+            #titulop{
+                font-size: 24px;
+                text-align: center;
+                letter-spacing: 2px;
+            }
+            .titulos {
+                background-color:aqua;
+                color: black;
+            }
+            .titulosatvs {
+                font-weight: bolder;
+            }
+        </style>
+    </head>
+
+    <body>
+        <!-- Cabeçalho -->
+        <header>
+            <h1 class="titulos" id="titulop">Semana de Tecnologia e Cultura</h1>
+            <p>Bem vindo ao site da Semana de Tecnologia e Cultura do ifce <i>campus</i> Maranguape </p>
+        </header>
+
+        <!-- Menu de Navegação -->
+        <nav>
+            <h2 class="titulos subtitulos">Navegue pela página:</h2>
+            <ul>
+                <li><a href="#Sobre">Sobre</a></li>
+                <li><a href="#Programacao">Programação</a></li>
+                <li><a href="#Atividades">Atividades</a></li>
+                <li><a href="#Inscricoes">Inscrição</a></li>
+                <li><a href="#Rodape">Informações</a></li>
+            </ul>
+        </nav>
+
+        <!-- Seção Sobre -->
+        <section id="Sobre">
+            <h2 class="titulos subtitulos">Sobre o Evento:</h2>
+            <p class="sec_sobre">Evento vai reunir os alunos para atividades de entrertenimento e aprendizado.</p>
+            <p class="sec_sobre">Venha Participar!!!</p>
+            <figure>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgs9TWtuvrSxBdV5JekaeWTrT0xyem_4WYeaiVBvxzw&s" alt="imgteste" height="100">
+                <figcaption>Imagem sobre o evento</figcaption>
+            </figure>
+        </section>
+        
+        <!-- SEÇÃO PROGRAMAÇÃO -->
+        <section id="Programacao">
+
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Horário</th>
+                        <th>Atividade</th>
+                        <th>Local</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>9hrs</td>
+                        <td>Oficina de Programação</td>
+                        <td>Laboratório de informática III</td>
+                    </tr>
+
+                    <tr>
+                        <td>13hrs</td>
+                        <td>Torneio de xadrez</td>
+                        <td>Quadra</td>
+                    </tr>
+
+                    <tr>
+                        <td>16hrs</td>
+                        <td>Mostra Cultural</td>
+                        <td>Auditório</td>
+                    </tr>
+ 
+                </tbody>
+
+            </table>
+
+        </section>
+
+        <!-- Seção Atividades com divs -->
+        <section id="Atividades">
+            <h2 class="titulos subtitulos">Atividades:</h2>
+            <div class="box box1">
+                <p class="tituloatvs">Atividade 1 - Oficina de Programação</p>
+            </div>
+            <div class="box box2">
+                <p class="tituloatvs">Atividade 2 - Torneio de xadrez</p>
+            </div>
+            <div class="box box3">
+                <p class="tituloatvs">Atividade 3 - Mostra Cultural</p>
+            </div>
+        </section>
+
+        <!-- Seção Incrições -->
+        <section id="Inscricoes">
+            <h2 class="titulos subtitulos">Inscrição:</h2>
+            <p>Para se inscrever acesse o nosso site</p>
+            <a href="https://portal.ifce.edu.br/campus/maranguape/">Site do IFCE</a>
+        </section>
+
+    </body>
+    
+    <!-- Rodapé com informações legais -->
+    <footer id="Rodape">
+        <h2 class="titulos subtitulos">Informações: </h2>
+        <p>Para mais informações acesse o nosso <a href="https://www.instagram.com/ifcemaranguape/">instagram</a></p>
+    </footer>
+
+</html>

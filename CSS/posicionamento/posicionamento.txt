@@ -1,0 +1,20 @@
+TIPOS de position:
+
+-static:
+É o elemento padrão, que a gente tava usando, com o posicionamento de acordo com o fluxo normal da página
+
+-relative:
+Permite mover o elemento em relação a posição original(que seria no static), em relação a parte que eu desejar, indo pro lado oposto, ex vou 30px de left(esquerda), vou para right(direita)
+
+-absolute:
+Permite mover o elemento em relação ao seu conatainer(por padrão o body)
+
+-fixed:
+Fica no mesmo lugar, acompanhando a rolagem
+
+-sticky:
+Ele é relativo até a rolagem da tela bater nele, aí ele vira fixo
+
+- z-index:
+Controla a ordem de empilhamento dos box models, se uma vai ficar em cima da outra e etc
+

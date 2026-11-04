@@ -1,0 +1,22 @@
+-flexbox:
+Modelo de layout unidimensional de CSS, que facilita o alinhamento, espaçamento e organização de elementos dentro de um container. Ideal para criar layouts responsivo(se adaptam a outros ambientes, como no celular)
+
+-display: flex:
+Ele ativa o flex box, ele ativa automaticamento o flex-direction: row, que é o horizontal da esquerda para a direita
+
+-flex-direction:
+DIz a direção que vai ficar, horizontal ou vertical e etc
+
+-justify-content:
+Alinha os itens ao longo do eixo principal(horizontal ou vertical), podendo ele ir pro inicio ou pro fim
+
+-aling-items:
+ALinham os items ao eixo oposto ao meu atual, ou seja se eu estiver no horizontal vai ser na vertical e se eu tiver na vertical vai ser na horizontal
+
+-flex-wrap:
+Quebra de linha, quando eu minimizar muito a página eu posso, pra não bugar tudo, usar quebra de linha, empilhando as coisas pra baixo
+
+-flex-wrap: wrap reverse :
+Quebra a linha do mesmo jeito da anterior, só que empilhando pra cima
+
+

@@ -1,0 +1,9 @@
+-JAVASCRIPT:
+É uma linguagem de programação, como as outras, só que ela interage com o html;
+Ativa ele usando a tag "script", ou um link externo(um src na tag script);
+
+-Alert:
+Emite um alerta na página
+
+-Console.log:
+Aparece no console da página(usando F12), é a saída, equivale ao print

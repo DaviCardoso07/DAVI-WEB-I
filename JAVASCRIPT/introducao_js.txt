@@ -7,3 +7,6 @@ Emite um alerta na página
 
 -Console.log:
 Aparece no console da página(usando F12), é a saída, equivale ao print
+
+-prompt
+O input(entrada de dados) é feita usando o "prompt"
